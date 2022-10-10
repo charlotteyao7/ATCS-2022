@@ -1,9 +1,3 @@
-body {
-    background-image: url(https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F34%2F2019%2F12%2Fcraft-trends-2020-crafting-supplies-1219-2000.jpg);
-    background-size: 100vw;
-    margin: 0;
-}
-
 .navbar {
     display: flex;
 }
@@ -24,16 +18,6 @@ a:hover {
     color: grey;
 }
 
-h1,h2 {
-    color: white;
-    text-align: center;
-    margin: auto;
-    
+body {
+    background-color: rgb(42, 34, 25);
 }
-
-.center {
-    padding: 280px;
-    background-color: black;
-    opacity: 0.8;
-}
-

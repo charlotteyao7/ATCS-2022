@@ -1,0 +1,11 @@
+img {
+    width: 40vw;
+    margin: 30px;
+    
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

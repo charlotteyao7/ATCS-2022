@@ -1,0 +1,19 @@
+img {
+    width: 50vh;
+    float: right;
+    margin: 50px;
+}
+
+.content {
+    padding: 20px;
+}
+
+h1{
+    font-size: 70px;
+    color: white;
+}
+
+p {
+    font-size: 30px;
+    color: rgb(198, 168, 153);
+}
