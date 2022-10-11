@@ -1,11 +1,12 @@
-img {
-    width: 40vw;
-    margin: 30px;
-    
-}
-
-.content {
+/* Photo Collection */
+.gallery {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+}
+
+/* Individual Photos */
+img {
+    width: 40vw;
+    margin: 30px;
 }

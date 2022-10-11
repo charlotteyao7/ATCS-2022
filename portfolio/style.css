@@ -1,3 +1,6 @@
+/* STYLESHEET FOR ALL PAGES */
+
+/* Navigation Bar */
 .navbar {
     display: flex;
 }
@@ -6,7 +9,6 @@ h4 {
     display: flex;
     flex-direction: row;
     margin: 20px;
-    text-align: right;
 }
 
 a {
@@ -18,6 +20,7 @@ a:hover {
     color: grey;
 }
 
+/* Page Background */
 body {
     background-color: rgb(42, 34, 25);
 }

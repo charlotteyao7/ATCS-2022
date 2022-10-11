@@ -1,9 +1,11 @@
+/* Portrait Image */
 img {
     width: 50vh;
     float: right;
     margin: 50px;
 }
 
+/* Text Content */
 .content {
     padding: 20px;
 }
