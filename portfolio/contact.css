@@ -1,0 +1,21 @@
+.content {
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin: 250px 0 20px 0;
+    color: white;
+}
+
+p {
+    text-align: center;
+    margin: 0 300px;
+    font-size: 20px;
+    color: rgb(198, 168, 153);
+}
+
+p a {
+    color: rgb(198, 168, 153);
+    text-decoration: underline;
+}
