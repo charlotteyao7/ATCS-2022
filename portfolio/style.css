@@ -1,26 +1,31 @@
 /* STYLESHEET FOR ALL PAGES */
 
-/* Navigation Bar */
+/* Navbar */
 .navbar {
-    display: flex;
+    background-color: black;
+    opacity: 0.8;
+    margin-right: 100px;
 }
 
-h4 {
+/* Social Links */
+.social-links {
     display: flex;
-    flex-direction: row;
-    margin: 20px;
+    position: fixed;
+    top: 10px;
+    right: 10px;
 }
-
-a {
+.fab {
     color: white;
-    text-decoration: none;
-}
-
-a:hover {
-    color: grey;
+    margin: 10px;
+    size: 5px;
 }
 
 /* Page Background */
 body {
-    background-color: rgb(42, 34, 25);
+    background-color: black;
+}
+
+/* All text */
+h1, h2, p {
+    font-family:'Times New Roman', Times, serif;
 }
