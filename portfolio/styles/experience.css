@@ -10,14 +10,18 @@
 img {
     margin: 30px;
 }
+
 .card {
     width: 570px;
+    min-width: 570px;
     height: 600px;
     margin: 30px;
 }
+
 .card-img-top {
     margin-top: 0px;
 }
+
 .card-text {
     position: relative;
     bottom: 50px;
