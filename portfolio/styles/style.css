@@ -1,0 +1,30 @@
+/* STYLESHEET FOR ALL PAGES */
+
+/* Navbar */
+.navbar {
+    background-color: black;
+    opacity: 0.8;
+    margin-right: 10vw;
+}
+
+/* Page Background */
+body {
+    background-color: black;
+}
+
+/* All text */
+h1, h2, p {
+    font-family:'Times New Roman', Times, serif;
+}
+
+/* Social Links */
+.social-links {
+    display: flex;
+    justify-content: center;
+}
+
+.fab {
+    color: rgb(158, 158, 158);
+    margin: 10px;
+    size: 5px;
+}

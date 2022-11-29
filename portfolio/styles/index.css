@@ -1,0 +1,17 @@
+/* Text Content */
+h1,h2 {
+    color: white;
+    text-align: center;
+    margin: auto;
+}
+.content {
+    padding: 150px;
+}
+
+/* Images */
+.carousel {
+    width: 40%;
+    height: 40%;
+    margin: auto;
+    margin-top: 8px;
+}

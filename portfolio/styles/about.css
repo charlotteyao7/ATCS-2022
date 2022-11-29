@@ -1,0 +1,28 @@
+/* Portrait Image */
+img {
+    margin: 100px 20px 20px 20px;
+    width: 100%;
+}
+
+/* Text Content */
+h1 {
+    font-size: 65px;
+    color: white;
+    margin-top: 100px;
+}
+
+p {
+    font-size: 26px;
+    color: rgb(158, 158, 158);
+}
+
+/* Button */
+.btn {
+    animation-name: fade;
+    animation-duration: 3s;
+}
+
+@keyframes fade {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
